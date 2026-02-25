@@ -3,6 +3,7 @@
   
 ## <br>- 🔍 Offensive Security  <br>- 🧩 CTF Player  <br>- 🐍 Security Tools Developer (Python & Bash)  
 
+<img align="right" alt="jfif" src="https://github.com/Valthe/Valthe/blob/main/Thewaytuce.jfif" width="360px"/>
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/i_valthe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valthe@duck.com) 
