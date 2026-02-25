@@ -21,15 +21,11 @@
 [![](https://visitcount.itsvg.in/api?id=valthe&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
-<br>
 
-### 📊 Github Stats
-<a href="https://github.com/i_valthe">
 
-<img src="https://github-readme-stats.vercel.app/api?username=i_valthe&show_icons=true&theme=transparent" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i_valthe&layout=compact&theme=transparent" />
+## 📊 Github Stats
 
-</a>
+![Stats](https://github-readme-stats.vercel.app/api?username=i_valthe&show_icons=true)
 
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i_valthe&layout=compact)
