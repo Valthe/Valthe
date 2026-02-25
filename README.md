@@ -21,11 +21,8 @@
 [![](https://visitcount.itsvg.in/api?id=valthe&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
-
-
-
 ## 📊 Github Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=i_valthe&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=i_valthe&show_icons=true&count_private=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i_valthe&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i_valthe&layout=compact" />
