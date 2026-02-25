@@ -1,36 +1,30 @@
 <h1 align="center">Hi 👋, I'm i_valthe</h1>
 <p align="center">
-  <img src="𝕭𝕰𝕹%20%20𝕯𝖀𝕰𝕽𝕽.jfif" width="400" alt="Profile Banner">
-</p>
+  # 💫 About Me:
+## <br>- 🔍 Offensive Security  <br>- 🧩 CTF Player  <br>- 🐍 Security Tools Developer (Python & Bash)  
 
-<h3 align="center">Pentester | CTF Player | Security Researcher</h3>
 
----
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/i_valthe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valthe@duck.com) 
 
-### 🧠 About Me
-- 🔍 **Offensive Security:** شغوف بالبحث عن الثغرات واختراق الويب.
-- 🏴‍☠️ **Bug Bounty:** أركز بشكل أساسي على صيد الثغرات وتطوير أدوات الاستغلال.
-- 🧩 **CTF Player:** حل التحديات البرمجية والأمنية.
-- 🐍 **Dev:** أقوم ببناء أدوات أمنية باستخدام Python و Bash.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=valthe&theme=date_night&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=valthe&theme=date_night&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=valthe&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=valthe&theme=default_repocard&no-frame=true&no-bg=true&margin-w=4)
 
-### 💻 Tech Stack
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-#### 🛡️ Programming & Scripting
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C%23](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### 🌐 Web Development & Servers
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-#### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=valthe&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=valthe&icon=9&color=12)](https://visitcount.itsvg.in)
 
---- ## 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=valthe&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
-
-
---- ### 🔝 Top Contributed Repo 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://github-contributor-stats.vercel.app/api?username=valthe&limit=5&theme=dark&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=valthe&icon=2&color=0)](https://visitcount.itsvg.in)
