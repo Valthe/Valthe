@@ -19,7 +19,5 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://x.com/i_Valthe" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Valthe&show_icons=true&locale=en" alt="Valthe" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Valthe&" alt="Valthe" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valthe&show_icons=true&locale=en&layout=compact" alt="Valthe" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Valthe" alt="Valthe" /></a></p>
