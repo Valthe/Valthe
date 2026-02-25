@@ -23,12 +23,12 @@
 
 <br>
 
-
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/i_valthe/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+<a href="https://github.com/i_valthe">
+
+<img src="https://github-readme-stats.vercel.app/api?username=i_valthe&show_icons=true&theme=transparent" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i_valthe&layout=compact&theme=transparent" />
 
 </a>
 
