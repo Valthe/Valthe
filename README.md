@@ -13,7 +13,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/valthe/valthe/output/snake.svg" alt="Snake animation" />
 
 ###
-
