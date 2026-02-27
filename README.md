@@ -11,19 +11,3 @@
 
 <br><br><br><br><br><br><br><br>  
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=valthe&theme=date_night&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=valthe&theme=date_night&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=valthe&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=valthe&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
-
-
-![](https://github-profile-trophy.vercel.app/?username=valthe&theme=default_repocard&no-frame=true&no-bg=true&margin-w=4)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=valthe&icon=9&color=12)](https://visitcount.itsvg.in)
